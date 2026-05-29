@@ -1,20 +1,16 @@
-## About me  
-  I am an undergraduate student pursuing a degree in Software Engineering. My research interests encompass edge computing, on-device AI, computer vision, and Large Language Models (LLMs). Additionally, I am dedicated to developing intuitive and user-friendly machine learning systems.  
-  I am deeply passionate about open-source software and firmly believe in its transformative power, which has continually shaped the world and will undoubtedly continue to do so in the future.
+## About me
+ML researcher and open-source developer focused on neural network interpretability and on-device inference. Building tools that bridge ML research with practical applications. Contributor to [Differential-Transformer-PyTorch](https://github.com/eric-haibin-lin/Differential-Transformer-PyTorch) (86★).
 
 #### Skills:
 [![My Skills](https://skillicons.dev/icons?i=flutter,c,dart,py,pytorch)](https://skillicons.dev)
 
+## Featured Projects:
+### [Playboy Player](https://github.com/Playboy-Player/playboy) (236★)
+Cross-platform media player with ML-powered subtitle generation and video analysis.
 
-## Side Projects:
-### [Playboy](https://github.com/Playboy-Player/playboy):
-A cross-platform player enhanced by Machine Learning and Large Language Models(LLMs).
+### [ML Dart Bindings](https://github.com/Playboy-Player/pytorch_dart) — pytorch_dart | whisper4dart
+Dart/Flutter bindings for PyTorch and Whisper, enabling on-device ML inference without method channel overhead.
 
-### [fluentic](https://github.com/Playboy-Player/fluentic):
-Fluentic is a Flutter + Agentic framework designed to make Large Language Models (LLMs) feel like callable functions within your Dart/Flutter applications.
-
-### [PyTorch-Dart](https://github.com/Playboy-Player/pytorch_dart):  
-In my freshman year, I embarked on learning Flutter and quickly saw the potential of integrating it with machine learning to create innovative applications. However, I found the preprocessing and post-processing tasks to be particularly cumbersome, often requiring extensive efforts to manage nested lists and inefficiently handle tensor operations. To address these challenges, I developed PyTorch_Dart. This project provides users with a PyTorch-like experience and delivers superior performance compared to other plugins that rely on method channels or Dart native.
-
-
+### [Fluentic](https://github.com/Playboy-Player/fluentic)
+Flutter + Agentic framework for calling LLMs as native Dart functions.
 
