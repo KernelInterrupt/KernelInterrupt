@@ -1,16 +1,12 @@
-## About me
-ML researcher and open-source developer focused on neural network interpretability and on-device inference. Building tools that bridge ML research with practical applications. Contributor to [Differential-Transformer-PyTorch](https://github.com/eric-haibin-lin/Differential-Transformer-PyTorch) (86★).
+## About
 
-#### Skills:
-[![My Skills](https://skillicons.dev/icons?i=flutter,c,dart,py,pytorch)](https://skillicons.dev)
+Currently at EPFL, working on machine learning and efficient inference.
 
-## Featured Projects:
-### [Playboy Player](https://github.com/Playboy-Player/playboy) (236★)
-Cross-platform media player with ML-powered subtitle generation and video analysis.
+## Publications
 
-### [ML Dart Bindings](https://github.com/Playboy-Player/pytorch_dart) — pytorch_dart | whisper4dart
-Dart/Flutter bindings for PyTorch and Whisper, enabling on-device ML inference without method channel overhead.
+- [An Information-Theoretic Evaluation Framework for Benchmark and Model Diagnosis in Knowledge Tracing](https://neurips.cc/virtual/2026/loc/paris/poster/149407) — **[NeurIPS 2026 Poster](https://neurips.cc/virtual/2026/loc/paris/poster/149407) (Co-first author)**
 
-### [Fluentic](https://github.com/Playboy-Player/fluentic)
-Flutter + Agentic framework for calling LLMs as native Dart functions.
+## Side Projects
 
+- [Playboy Player](https://github.com/Playboy-Player/Playboy) — Backend and ML contributions to a cross-platform libmpv media player, including automatic subtitle generation and video analysis.
+- [whisper4dart](https://github.com/KernelInterrupt/whisper4dart) — A Dart wrapper for whisper.cpp supporting common audio and video input.
