@@ -1,6 +1,6 @@
 ## About
 
-Currently at EPFL, working on machine learning and efficient inference.
+Currently studying at EPFL, with research interests in **sequence modeling, representation dynamics, and efficient inference**.
 
 ## Publications
 
